@@ -1,0 +1,19 @@
+#hw4 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.posts{
+    text-align: center;
+    width: 22%;
+    height: 200px;
+    border: red 1px solid;
+    border-radius: 5%;
+    margin: 10px;
+}
+span{
+    display: block;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+}
+
